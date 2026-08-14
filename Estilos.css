@@ -1,0 +1,31 @@
+body {
+	background-color: #050529;
+	color: white;
+
+}
+
+.titulo{
+	color: #7373EE;
+	border-bottom: 15px solid #E8E8FC;
+	text-align: center;
+	font-size: 50px;
+	font-style: italic;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	border: 5px solid green;
+	border-radius: 10px;
+	display: block;
+	margin: 20px auto;
+
+}
+
+ul {
+	font-size: 30px;
+}
+
+ol {
+	font-size: 30px;
+}
